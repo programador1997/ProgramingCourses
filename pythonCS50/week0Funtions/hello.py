@@ -9,10 +9,10 @@ comments
 
 # create variable name with the input of the user
 #u can convine the fintions 
-name = input("What's ur name? ").strip().title()
+#name = input("What's ur name? ").strip().title()
 
 #split user's name into first name and last name in two new varialbes
-first, last =name.split(" ")
+#first, last =name.split(" ")
 
 
 # remove whiteespace from str
@@ -38,4 +38,26 @@ first, last =name.split(" ")
 #print("hello, , \"friend\" ")
 
 #if you add and "f" in the beginig of the stream and put the variable bethen brackets {} it thake the str as a varialbe
-print (f"hello,  {first}, {last}")
+#print (f"hello,  {first}, {last}")
+
+"""
+make a funtion
+def hello():
+    print("hello")
+
+name = input("what's ur name? ")
+hello()
+print(name)
+"""
+
+"""
+make a main and hello funtions
+def main():
+    name = input("what's ur name? ")
+    hello(name)
+
+def hello(to="world"):
+    print("hello, ", to)
+
+main()
+"""
