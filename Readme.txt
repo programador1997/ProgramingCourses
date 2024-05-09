@@ -28,3 +28,9 @@ tenemos
 main no se toca hasta que se acabe un curso y podamos mergerla
 en development vamos a generar la carpeta de nombre del curso y de ahi generaremos otra branch para trabajar semana a semana
 el nombre de la branch va a ser el nombre del curso
+
+vamos a hacer una branch por cada semana del curso 
+
+main -> develop -> python -> weekN 
+
+cambiando el N por el numero de la semana
