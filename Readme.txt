@@ -19,3 +19,12 @@ vamos a enforcarnos en 3 cursos
 python cs50
 web developing cs50
 software cs50
+
+el sistema de branches
+tenemos
+    main 
+    develop
+
+main no se toca hasta que se acabe un curso y podamos mergerla
+en development vamos a generar la carpeta de nombre del curso y de ahi generaremos otra branch para trabajar semana a semana
+el nombre de la branch va a ser el nombre del curso
