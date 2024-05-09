@@ -29,3 +29,12 @@ z = (round(x + y))
 add format to numbers add a coma
 print(f"{z:,}")
 """
+
+def main():
+    x = int(input("What's x ?"))
+    print("x square is: ", square(x))
+
+def square(n):
+    return pow(n,2)
+
+main()
