@@ -26,13 +26,13 @@ def main():
         due = price-bank
         print(f"Amount Due:  {due}")
         amount = int(input("Insert Coin: "))
-        if amount == 25 or amount == 50 or amount == 5:
+        if amount == 25 or amount == 10 or amount == 5:
             bank = bank + amount
             if price <= bank:
                 print("COKE")
                 if price < bank:
                     change = bank - price
-                    print(f"Change: {change} ")
+                    print(f"Change owed: {change} ")
         else:
             print("sorry i only accept 25 cents, 10 cents, and 5 cens")
 
