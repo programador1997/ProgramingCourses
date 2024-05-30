@@ -34,3 +34,5 @@ vamos a hacer una branch por cada semana del curso
 main -> develop -> python -> weekN 
 
 cambiando el N por el numero de la semana
+
+la cagamos al crear week3 nos lsatamos a la 4 correciones de archivo y se vera week3 con week4
